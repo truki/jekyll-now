@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a sysadmin/devops engineer actually working at Public Company of Health Emergency on Andalusian.
+Interests:
+* Everything with the word INTEGRATION.
+* Python programming (of course Django... ¬¬).
+* Linux.
+* MongoDB.
+* and actually very interested in cloud technologies.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[trukise@gmail.com](mailto:trukise@gmail.com)
