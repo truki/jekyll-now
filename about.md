@@ -7,7 +7,9 @@ permalink: /about/
 ### More Information
 
 I'm a sysadmin/devops engineer actually working at Public Company of Health Emergency on Andalusian.
+
 Interests:
+
 * Everything with the word INTEGRATION.
 * Python programming (of course Django... ¬¬).
 * Linux.
